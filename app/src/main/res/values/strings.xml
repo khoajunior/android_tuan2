@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">andriod_tuan2</string>
+    <string name="password_generator"> PASSWORD "\n"GENERATOR</string>
+</resources>
